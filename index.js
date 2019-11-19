@@ -5,7 +5,7 @@ const {
   substract,
 } = require('./helpers');
 
-// Add numbers
+// Add number function
 console.log('Add', add(1, 2))
 // Substract numbers
 console.log('Substract', substract(1, 2))
